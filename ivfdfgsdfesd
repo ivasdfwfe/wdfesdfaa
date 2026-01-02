@@ -144,6 +144,7 @@ local SPECIAL_BRAINROTS = {
 ['Ginger Gerat'] = 0,
 ['Jolly Jolly Sahur'] = 0,
 ['Skibidi Toilet'] = 0,
+['Noobini Pizzanini'] = 0,
 }
 
 -- 🎮 OBJECTS WITH EMOJIS AND IMPORTANCE
@@ -282,6 +283,7 @@ local OBJECTS = {
 ['Los Jolly Combinasionas'] = { emoji = '🗽', important = true },
 ['Ginger Gerat'] = { emoji = '🥶', important = true },
 ['Skibidi Toilet'] = { emoji = '🥶', important = true },  
+['Noobini Pizzanini'] = { emoji = '🥶', important = true },  
 }
 
 local ALWAYS_IMPORTANT = {}
